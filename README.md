@@ -1,11 +1,11 @@
-# 🧑‍💻 Testable Profile Card
+# Testable Profile Card
 
 This project is a **responsive, accessible Profile Card** built using **semantic HTML**, **modern CSS**, and **vanilla JavaScript**.  
 It was created as part of a front-end development task to demonstrate clean code structure, responsiveness, accessibility, and testing readiness using `data-testid` attributes.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Semantic HTML structure (`<article>`, `<header>`, `<section>`, `<nav>`, etc.)
 - ✅ Fully responsive design (mobile, tablet, desktop)
@@ -17,7 +17,7 @@ It was created as part of a front-end development task to demonstrate clean code
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3 (Flexbox, Responsive Design)**
@@ -25,7 +25,7 @@ It was created as part of a front-end development task to demonstrate clean code
 
 ---
 
-## 🧠 Structure Overview
+##  Structure Overview
 
 | Section | Description |
 |----------|--------------|
@@ -40,14 +40,14 @@ It was created as part of a front-end development task to demonstrate clean code
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 The profile card displays the user's avatar, bio, and social links.  
 On larger screens, the layout adapts to position the avatar and content side by side.
 
 ---
 
-## 🧰 How to Run Locally
+##  How to Run Locally
 
 Follow these simple steps to view the project on your computer:
 
